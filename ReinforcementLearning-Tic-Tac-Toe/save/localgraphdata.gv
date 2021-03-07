@@ -1,0 +1,1 @@
+digraph G { node [color=blue] INIT_NODE /*edgeIndex: 0*/ "- | - | - \n - | - | - \n - | - | - " -> "O | - | - \n - | - | - \n - | - | - " [color=red, label= 0.0] }
